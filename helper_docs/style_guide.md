@@ -1,4 +1,4 @@
-# Introduction to Computer Science in Ruby Bootcamp: Style Guide
+# Introduction to Computer Science Bootcamp: Ruby Style Guide
 When you first start coding, you might wonder why code composition is important. After all, your code is meant to run on computers.
 
 However, when you need help or work in a software company, others will inevitably read the code that you have written. For this reason, it is important to follow certain established guidelines to ensure that others can easily understand your code, and vice versa.
