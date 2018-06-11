@@ -1,4 +1,5 @@
 require "rubygems"
+require "open-uri"
 require "json"
 
 def expect(answer, correct_msg='OK!')
@@ -33,7 +34,9 @@ expect('ok', '')
 puts ''
 
 Dir.chdir("week" + ARGV[0])
-File.open("lab" + ARGV[0] + ".json", "r") do |f|
+encoded_url = URI.encode(File.read("lab" + ARGV[0] + ".txt").chomp)
+url = URI.parse(encoded_url)
+open(url) do |f|
 	progress_file = ".lab" + ARGV[0] + "_progress.txt"
 	progress = File.exist?(progress_file) ? File.read(progress_file).chomp.to_i : 0
 	offset = chapter_index = 0
