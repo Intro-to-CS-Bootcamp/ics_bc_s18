@@ -1,5 +1,4 @@
-# ICS\_BC\_S18
-Intro to CS Bootcamp for Summer 2018
+# Intro to CS Bootcamp, Summer 2018
 
 ## Course Schedule
 
@@ -26,3 +25,5 @@ Intro to CS Bootcamp for Summer 2018
 		- This is an opportunity for you to ask any questions you may have, and for us to make sure you're on track to finish the week's work.
 - Friday
 	- Week's assignments are due
+- Sunday
+	- Grades are out
