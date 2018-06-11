@@ -18,12 +18,12 @@
 
 ## Weekly Schedule
 
-- Monday
+- Monday morning
 	- Material for the week is released
 - Wednesday
 	- Weekly check-in with assigned course assistant
 		- This is an opportunity for you to ask any questions you may have, and for us to make sure you're on track to finish the week's work.
-- Friday
+- Friday end of day
 	- Week's assignments are due
-- Sunday
+- Sunday end of day
 	- Grades are out
