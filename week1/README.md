@@ -21,6 +21,8 @@ Read the following chapters from Chris Pine's Learn to Program:
 
 Complete Lab 1
 
+- In the top folder, run `ruby lab_runner.rb 1`
+
 ## Programming Assignment
 
 ### Chapter 2:
