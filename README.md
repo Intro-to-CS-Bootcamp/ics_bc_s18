@@ -4,7 +4,6 @@ Intro to CS Bootcamp for Summer 2018
 ## Course Schedule
 
 - Week 1: 6/11 - 6/15
-  - Set-up
   - Learn Git
   - Chapters 1-5
 - Week 2: 6/18 - 6/22
