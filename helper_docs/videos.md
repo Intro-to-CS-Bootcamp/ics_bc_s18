@@ -35,5 +35,5 @@ TAs:
 - <a href="https://youtu.be/ZTAqVCOcA-0">Alexander Wu</a>
 - <a href="https://youtu.be/1zErhjOu9UA">Catherine Hu</a>
 - <a href="https://youtu.be/CJCi-PYAGQI">Saul Lopez</a>
-- Paul Shao
+- <a href="https://youtu.be/piNajauOolc">Paul Shao</a>
 - <a href="https://youtu.be/AW7eQr-LXKs">Tony Tu</a>
