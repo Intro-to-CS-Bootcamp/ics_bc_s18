@@ -32,8 +32,8 @@ TAs:
 
 - Emerson Hsieh
 - Josephine Koe
-- Alexander Wu
-- Catherine Hu
+- <a href="https://youtu.be/ZTAqVCOcA-0">Alexander Wu</a>
+- <a href="https://youtu.be/1zErhjOu9UA">Catherine Hu</a>
 - Saul Lopez
 - Paul Shao
 - Tony Tu
