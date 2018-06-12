@@ -10,12 +10,14 @@ Videos dealing with course logistics and general knowledge
 
 - We have two videos for installing GitHub on your computer:
   - One for Mac
-  - And one for PC
+  - And one for <a href="https://www.youtube.com/watch?v=jQLhLG_rJcs">PC</a>
 - There is also another video on setting up GitHub on your computer for the course, and getting you ready to go
 
 ### Assignments/Workflow
 
 - We have videos on how to:
+	- General course overview
+		- This is how things work, what you need to do, and how to submit your work
 	- Run the labs
-	- Submit the programming assignments
+	- Use IRB (the Interactive RuBy)
 	- And fetch new assignments
