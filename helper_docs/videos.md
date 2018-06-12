@@ -9,7 +9,7 @@ Videos dealing with course logistics and general knowledge
 ### GitHub
 
 - We have two videos for installing GitHub on your computer:
-  - One for Mac
+  - One for <a href="https://youtu.be/bvRPC-QpLnA">Mac</a>
   - And one for <a href="https://www.youtube.com/watch?v=jQLhLG_rJcs">PC</a>
 - There is also another video on setting up GitHub on your computer for the course, and getting you ready to go
 
