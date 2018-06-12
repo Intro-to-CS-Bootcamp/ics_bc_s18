@@ -19,21 +19,21 @@ Videos dealing with course logistics and general knowledge
 	- <a href="https://youtu.be/t3LI7S8nDZQ">General course overview</a>
 		- This is how things work, what you need to do, and how to submit your work
 	- <a href="https://youtu.be/WDOmF474YVE">Running the labs</a>
-	- Use IRB (the Interactive RuBy)
+	- Use <a href="https://youtu.be/uwRnk4SVKNY">IRB</a> (the Interactive RuBy)
 	- And fetch new assignments
 
 ## Staff Intro Videos
 
 Administrator/Lead TA
 
-- Gustavo De Leon
+- <a href="https://youtu.be/PF9MxUZtld0">Gustavo De Leon</a>
 
 TAs:
 
-- Emerson Hsieh
-- Josephine Koe
+- <a href="https://youtu.be/wdDNb6nWE2Q">Emerson Hsieh</a>
+- <a href="https://youtu.be/nTpMZqLboTE">Josephine Koe</a>
 - <a href="https://youtu.be/ZTAqVCOcA-0">Alexander Wu</a>
 - <a href="https://youtu.be/1zErhjOu9UA">Catherine Hu</a>
-- Saul Lopez
+- <a href="https://youtu.be/CJCi-PYAGQI">Saul Lopez</a>
 - Paul Shao
-- Tony Tu
+- <a href="https://youtu.be/AW7eQr-LXKs">Tony Tu</a>
