@@ -16,7 +16,7 @@ Before anything else, please take a look at our <a href="https://github.com/Intr
 - Week 5: 7/9 - 7/13
   - Chapters 11-12
 - Week 6: 7/16 - 7/20
-  - Chapters 13-14A
+  - Chapters 13-14
 
 ## Weekly Schedule
 
