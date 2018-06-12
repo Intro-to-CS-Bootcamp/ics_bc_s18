@@ -16,7 +16,7 @@ Videos dealing with course logistics and general knowledge
 ### Assignments/Workflow
 
 - We have videos on how to:
-	- General course overview
+	- <a href="https://youtu.be/t3LI7S8nDZQ">General course overview</a>
 		- This is how things work, what you need to do, and how to submit your work
 	- Run the labs
 	- Use IRB (the Interactive RuBy)
