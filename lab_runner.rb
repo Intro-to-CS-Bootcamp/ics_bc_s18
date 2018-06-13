@@ -29,7 +29,7 @@ end
 if ARGV.length != 1
 	puts 'You must provide a single argument for the number of the lab you want to run.'
 	$stdout.flush
-elsif ARGV[0] < 0 || ARGV[0] > 1
+elsif ARGV[0].to_i < 0 || ARGV[0].to_i > 1
 	puts "That's not a valid lab number, please input a number between 1 and 1."
 end
 
