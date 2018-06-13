@@ -1,5 +1,6 @@
-# ICS\_BC\_S18
-Intro to CS Bootcamp for Summer 2018
+# Intro to CS Bootcamp, Summer 2018
+
+Before anything else, please take a look at our <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/videos.md">video guide</a> for how to install git, set up your laptop for the bootcamp, and an overview of the course so you can get started.
 
 ## Course Schedule
 
@@ -15,14 +16,16 @@ Intro to CS Bootcamp for Summer 2018
 - Week 5: 7/9 - 7/13
   - Chapters 11-12
 - Week 6: 7/16 - 7/20
-  - Chapters 13-14A
+  - Chapters 13-14
 
 ## Weekly Schedule
 
-- Monday
+- Monday morning
 	- Material for the week is released
 - Wednesday
 	- Weekly check-in with assigned course assistant
 		- This is an opportunity for you to ask any questions you may have, and for us to make sure you're on track to finish the week's work.
-- Friday
+- Friday end of day
 	- Week's assignments are due
+- Sunday end of day
+	- Grades are out

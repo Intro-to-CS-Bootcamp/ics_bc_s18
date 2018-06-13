@@ -1,5 +1,7 @@
 # Week 1 Instructions
 
+June 11 - 15
+
 ## Reading Assignment
 
 Read the following chapters from Chris Pine's Learn to Program:
@@ -18,6 +20,8 @@ Read the following chapters from Chris Pine's Learn to Program:
   - pages 34-39
 
 ## Lab Assignment
+
+Download Ruby and a text editor such as <a href="https://atom.io/">Atom</a> or <a href="https://www.sublimetext.com/3">Sublime</a>.
 
 Complete Lab 1
 
