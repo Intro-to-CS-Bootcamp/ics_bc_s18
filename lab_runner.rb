@@ -4,21 +4,33 @@ require "json"
 
 def expect(answer, correct_msg='OK!')
 	answer = answer.downcase
-	input = $stdin.gets.chomp.downcase
+	input = flush_and_get.downcase
 	while answer != input
 		puts 'Not quite. Please try again.'
-		input = $stdin.gets.chomp.downcase
+		input = flush_and_get.downcase
 	end
 	puts correct_msg
 end
 
 def expect_exact(answer, correct_msg='OK!')
-	input = $stdin.gets.chomp
+	input = flush_and_get
 	while answer != input
 		puts 'Not quite. Please try again.'
-		input = $stdin.gets.chomp
+		input = flush_and_get
 	end
 	puts correct_msg
+end
+
+def flush_and_get
+	$stdout.flush
+	$stdin.gets.chomp
+end
+
+if ARGV.length != 1
+	puts 'You must provide a single argument for the number of the lab you want to run.'
+	$stdout.flush
+elsif ARGV[0] < 0 || ARGV[0] > 1
+	puts "That's not a valid lab number, please input a number between 1 and 1."
 end
 
 puts ''
