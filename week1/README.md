@@ -19,6 +19,8 @@ Read the following chapters from Chris Pine's Learn to Program:
 
 ## Lab Assignment
 
+Download Ruby and a text editor such as Atom or Sublime, as described in the book.
+
 Complete Lab 1
 
 - In the top folder, run `ruby lab_runner.rb 1`
