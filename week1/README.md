@@ -21,7 +21,7 @@ Read the following chapters from Chris Pine's Learn to Program:
 
 ## Lab Assignment
 
-Download Ruby and a text editor such as Atom or Sublime, as described in the book.
+Download Ruby and a text editor such as <a href="https://atom.io/">Atom</a> or <a href="https://www.sublimetext.com/3">Sublime</a>.
 
 Complete Lab 1
 
