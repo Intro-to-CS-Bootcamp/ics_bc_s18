@@ -26,11 +26,16 @@ def flush_and_get
 	$stdin.gets.chomp
 end
 
+$valid_lab_start = 1
+$valid_lab_end = 1
+
 if ARGV.length != 1
 	puts 'You must provide a single argument for the number of the lab you want to run.'
-	$stdout.flush
-elsif ARGV[0].to_i < 0 || ARGV[0].to_i > 1
-	puts "That's not a valid lab number, please input a number between 1 and 1."
+	exit
+elsif ARGV[0].to_i < $valid_lab_start || ARGV[0].to_i > $valid_lab_end
+	puts "That's not a valid lab number, please input a number between " +
+	     "#{$valid_lab_start} and #{$valid_lab_start}."
+	exit
 end
 
 puts ''
