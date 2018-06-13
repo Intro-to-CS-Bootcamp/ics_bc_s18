@@ -1,5 +1,7 @@
 # Week 1 Instructions
 
+June 11 - 15
+
 ## Reading Assignment
 
 Read the following chapters from Chris Pine's Learn to Program:
