@@ -39,6 +39,8 @@ Changes already added to the index, as well as new files, will be kept.
 
 `git merge`: Merge a local with remote after resolving a merge conflict. To avoid having to do this, don't make edits directly on the Github website.
 
+`git push -f`: Force push your commits to the remote. Do this when you are despairing and just can't figure out how to fix the merge conflict.
+
 ### Useful Links
 
 Below are Tutorials for Git and the command line on Codecademy. They are by no means manadory, but may be useful if you
