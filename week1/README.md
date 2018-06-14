@@ -2,6 +2,10 @@
 
 June 11 - 15
 
+## Submission Link
+
+When finished with the week's assignment, please push your changes to GitHub and fill out the following <a href="https://goo.gl/forms/lyZ6TKDWzj6R1j7Y2">form</a>.
+
 ## Reading Assignment
 
 Read the following chapters from Chris Pine's Learn to Program:
