@@ -17,7 +17,8 @@ Videos dealing with course logistics and general knowledge
 
 - We have videos on:
 	- <a href="https://youtu.be/t3LI7S8nDZQ">General course overview</a>
-		- This is how things work, what you need to do, and how to submit your work
+		- This is how things work and what you need to do
+		- And <a href="https://youtu.be/UJJInRzrnJk">here's</a> another one for submitting your work every week
 	- <a href="https://youtu.be/WDOmF474YVE">Running the labs</a>
 	- Use <a href="https://youtu.be/uwRnk4SVKNY">IRB</a> (the Interactive RuBy)
 	- And fetch new assignments
