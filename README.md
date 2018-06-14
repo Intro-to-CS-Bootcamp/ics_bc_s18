@@ -2,6 +2,8 @@
 
 Before anything else, please take a look at our <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/videos.md">video guide</a> for how to install git, set up your laptop for the bootcamp, and an overview of the course so you can get started.
 
+You may also find useful the helper doc for <a href="https://github.com/Intro-to-CS-Bootcamp/ics_bc_s18/blob/master/helper_docs/git_overview.md">an overview of Git</a>, which contains useful links.
+
 ## Course Schedule
 
 - Week 1: 6/11 - 6/15
