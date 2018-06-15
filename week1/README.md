@@ -80,7 +80,7 @@ Complete Lab 1
 
 - Requirements
   - When run, it should:
-    - As for your favorite number
+    - Ask for your favorite number
     - Add 1 to it, and suggest this as a better favorite number (the more tactful the better)
 - Advice
   - `gets.chomp` returns a string, so don't forget to use `.to_i` and `.to_s` as needed!
