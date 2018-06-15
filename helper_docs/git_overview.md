@@ -21,10 +21,12 @@ The following commands are all done in your terminal (or if you use Windows, eit
 
 `git status`: Tells you what status your local git files are in. File changes (create, edit, or delete) can be:
 1. unstaged (just changed, haven't done anything related to git yet) - use `git add`
-2. staged for commit (you've added it to the group of files you're about to commit) - use `git commit`
+2. staged for commit (you've added it to the group of files you're about to commit called staging area) - use `git commit`
 3. committed (you've saved the changes to some part of your computer other than just in the file, kinda like a backup). `git status` also tells you how many commits your local is ahead the remote - if greater than zero, use `git push`
 
-`git add some_file`: Stages the changes made to `some_file` for commit (staging area). You can choose which changes you want to commit, because sometimes you just don't want to commit something, or want to commit it later. (p.s. If you use mac and see an annoying file called .DS_Store, just commit it and be done with it. Unless you want to be a pro at Git, then contact a TA.)
+`git add some_file`: Stages the changes made to `some_file` for commit (staging area). You can choose which changes you want to commit, because sometimes you just don't want to commit something, or want to commit it later. If you don't care, use `git add .` to add everything since `.` means everything.
+
+p.s. If you use mac and see an annoying file called .DS_Store, just commit it and be done with it. Unless you want to be a pro at Git, then contact a TA.
 
 `git commit -m "Some commit message"`: Commits all changes in the staging area. After a change is committed, it will be saved somewhere on your computer other than the file - like a Cloud backup. The difference is that it saves the entire timeline, not just the final state. So if you want to revert a file to some earlier stage of development, you can do so. That's why it's best to commit often, because you can only revert to those snapshots that correspond to a commit.
 
