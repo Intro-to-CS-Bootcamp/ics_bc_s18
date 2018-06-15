@@ -11,6 +11,12 @@ find the last point things worked and see exactly what the changes made after th
 
 ### Useful Commands
 
+**Note: Please do NOT make edits directly on the Github website.** If you edit a repo simultaneously at two places, you will (usually) get a merge conflict. Those are not nice. Believe me.
+
+That said, you may go on the website to make sure that you've pushed successfully, to view your code if you're not on your computer, look at your commit history, etc.
+
+The following commands are all done in your terminal (or if you use Windows, either Gitbash or command prompt).
+
 #### You Will Need These
 
 `git status`: Tells you what status your local git files are in. Files changes can be:
@@ -26,11 +32,15 @@ find the last point things worked and see exactly what the changes made after th
 
 `git pull` or `git pull some_place some_branch`: Pulls commits from the remote (or someone else's remote) onto your local computer. It may contain changes by your teammates or changes you made directly on the Github website because you were too lazy to do it on your local repo.
 
-`git clone link_to_repo`: Clones a repo you've already created on the website (remotely) onto your local computer.
+`git clone link_to_repo`: Clones a repo you've already created on the website (remotely) onto your local computer. You will probably only use this command once in this course.
 
 #### These You Probably (Hopefully) Won't Need
 
-`git log`: Tells you what commits you've made so far (on your local computer). You can also do this on the website by clicking "History".
+`git log`: Tells you what commits you've made so far (on your local computer). You can use the up and down arrows to scroll and type `q` to quit. You can also do this on the website by clicking "History".
+
+**If you ever suspect you need following commands, it is recommended you also message a TA or at least do some googling, as they are a little complicated.**
+
+`git reset HEAD some_file`: If you accidentally stage (`git add`) something you didn't mean to, use this to unstage it.
 
 `git checkout -- some_file`: If you mess up, you can replace the changes in your working tree with the last content in head:
 Changes already added to the index, as well as new files, will be kept.
