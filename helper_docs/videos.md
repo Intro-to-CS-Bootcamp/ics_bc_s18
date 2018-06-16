@@ -8,6 +8,7 @@ Videos dealing with course logistics and general knowledge
 
 ### GitHub
 
+- Before anything else, <a href="https://youtu.be/IKDHl1ctcFo">what is git?</a>
 - We have two videos for installing GitHub on your computer:
   - One for <a href="https://youtu.be/bvRPC-QpLnA">Mac</a>
   - And one for <a href="https://www.youtube.com/watch?v=jQLhLG_rJcs">PC</a>
