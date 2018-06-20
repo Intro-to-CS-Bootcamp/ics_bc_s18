@@ -38,7 +38,9 @@ Complete Lab 2
 #### table\_of\_contents.rb
 
 - Requirements
-  - Here’s something for you to do in order to play aroundmore with center, ljust, and rjust: write a program that will display a table ofcontents so that it looks like this:
+  - Here’s something for you to do in order to play around
+more with center, ljust, and rjust: write a program that will display a table of
+contents so that it looks like this:
 
 ```
 				   	Table of Contents
@@ -49,13 +51,15 @@ Chapter 3: Letters				    	page 13
 
 - Clarifications/Advice
   - Make sure to align it properly. A good tip is to make sure that each of the lines is the same length, which can be ensured by making sure that the arguments to `.center`, `.ljust`, and `.rjust` add up to the same total
+  - p.s. I won't penalize you for using your favorite book's contents instead of _Learn to Program_'s. (It was boring seeing the same three chapters over and over again.)
 
 ### Chapter 7:
 
 #### 99\_bob.rb
 
 - Requirements
-  - Write a program that prints out the lyricsto that beloved classic, “99 Bottles of Beer on the Wall.”
+  - Write a program that prints out the lyrics
+to that beloved classic, “99 Bottles of Beer on the Wall.”
   - Here’s a handy <a href="http://www.99-bottles-of-beer.net/lyrics.html">reference</a>. It must look like this (with the lyric match and the spacing).
 - Clarifications/Advice
   - Main thing for this one is that the lyrics change when you get to one bottle of beer left on the wall, so make sure you account for it!
@@ -88,7 +92,11 @@ over and over again. All of those should be in your while loop.
 #### leap\_year\_counter.rb
 
 - Requirements
-  - Write a program that asks for a starting year and an endingyear and then puts all the leap years between them (and including them, if they are also leap years). Leap years are years divisible by 4 (like 1984 and 2004). However, years divisible by 100 are not leap years (such as 1800 and 1900) unless they are also divisible by 400 (such as 1600 and 2000, which were in fact leap years). What a mess!
+  - Write a program that asks for a starting year and an ending
+year and then puts all the leap years between them (and including them,
+ if they are also leap years). Leap years are years divisible by 4 (like 1984 and 2004). However, years divisible by 100 are not leap years (such as
+ 1800 and 1900) unless they are also divisible by 400 (such as 1600 and
+ 2000, which were in fact leap years). What a mess!
 - Clarifications/Advice
   - Key for this one is keeping the conditions needed for a year to be a leap year in mind. It has to be divisible by 400, or divisible by 4 and not by 100. It’s easy to get mixed up, so double check by trying it out and comparing with this <a href="http://www.onlineconversion.com/leapyear.htm">site</a>
 
@@ -97,7 +105,10 @@ over and over again. All of those should be in your while loop.
 #### array\_sort.rb
 
 - Requirements
-  - Write the program we talked about at the beginning of this chapter, one that asks us to type as many words as we want (one word per line, continuing until we just press Enter on an empty line) and then repeats the words back to us in alphabetical order.
+  - Write the program we talked about at the
+ beginning of this chapter, one that asks us to type as many words as we
+ want (one word per line, continuing until we just press Enter on an
+ empty line) and then repeats the words back to us in alphabetical order.
 - Clarifications/Advice
   - Make sure to test your program thoroughly; for example, does hitting `Enter` on an empty line always exit your program? Even on the first line? And the second?
   - There’s a lovely array method that will give you a
@@ -106,6 +117,10 @@ over and over again. All of those should be in your while loop.
 #### table\_of\_contents.rb
 
 - Requirements
-  - Rewrite your table of contents program from chapter 6. Start the program with an array holding all of the information for your table of contents (chapter names, page numbers, and so on). Then print out the information from the array in a beautifully formatted table of contents.
+  - Rewrite your table of contents program from chapter 6. Start the program with an array holding all of the information
+ for your table of contents (chapter names, page numbers, and so on).
+ Then print out the information from the array in a beautifully formatted
+ table of contents.
 - Clarifications/Advice
   - Main thing is to actually use an array to store your strings, don’t just copy paste the old code
+  - A possible misinterpretation is to just literally store all the variables you'll need in an array like `stuff_i_will_need = ["Table of Contents", 1, "Getting Started", 1, 2, "Numbers", 9]`. But if you do that, you'll notice that it doesn't make the code any easier to write. Programmers don't usually just store a bunch of different stuff in an array just like that! Instead, you'll have an array containing the first X, the second X, and so on. For example, `chapter_names = ["Getting Started", "Numbers", "Letters"]` contains the first chapter name, the second name, etc. Or if you want to be clever, you can use a nested array: `chapters = [["Getting Started", 1], ["Numbers", 9], ["Letters", 13]]`. Either way, you'll now be able to do everything in an elegant loop (use the `.each` or `.each_with_index` method -- google the latter). _That's_ the beauty of arrays.
