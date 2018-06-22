@@ -62,7 +62,7 @@ Chapter 3: Letters				    	page 13
 to that beloved classic, “99 Bottles of Beer on the Wall.”
   - Here’s a handy <a href="http://www.99-bottles-of-beer.net/lyrics.html">reference</a>. It must look like this (with the lyric match and the spacing).
 - Clarifications/Advice
-  - Main thing for this one is that the lyrics change when you get to one bottle of beer left on the wall, so make sure you account for it!
+  - Main thing for this one is that the lyrics change when you get to one or zero bottles of beer left on the wall, so make sure you account for it!
 
 #### deaf\_grandma.rb
 
@@ -72,7 +72,7 @@ should respond with this:
 		- `HUH?! SPEAK UP, SONNY!`
   - unless you shout it (type in all capitals). If you shout, she can hear you (or at least she thinks so) and yells back:
 		- `NO, NOT SINCE 1938!`
-  - To make your program really believable, have Grandma shout a different year each time, maybe any year at random between 1930 and 1950.
+  - To make your program really believable, have Grandma shout a different year each time, ~maybe any year at random between 1930 and 1950.~ This has been changed to a requirement, i.e. The year must be completely random (same probability for each year) from 1930 to 1950, inclusive.
   - You can’t stop talking to Grandma until you shout BYE.
 - Clarifications/Advice
   - Don’t forget about `.chomp!` 'BYE' with an `Enter` at the end is not the same as 'BYE' without one!
