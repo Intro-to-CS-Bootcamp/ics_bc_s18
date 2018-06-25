@@ -13,7 +13,7 @@ Read the following chapters from Chris Pine's Learn to Program:
 - Chapter 9: Writting Your Own Methods
   - pages 69-80
   
-This week we also have optional <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ4lP1domOnNNHj78JPdrZ6u">videos</a> to provide more examples with programs that manipulate strings and integers, which is what you will do in the Roman numberal assignment.
+This week we also have optional <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ4lP1domOnNNHj78JPdrZ6u">videos</a> to provide more examples with programs that manipulate strings and integers, which is what you will do in the Roman numeral assignments.
 
 ## Lab Assignment
 
