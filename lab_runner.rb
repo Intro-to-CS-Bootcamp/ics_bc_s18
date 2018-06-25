@@ -36,7 +36,7 @@ def flush_and_get
 end
 
 valid_lab_start = 1
-valid_lab_end = 2
+valid_lab_end = 3
 
 if ARGV.length != 1
 	puts 'You must provide a single argument for the number of the lab you want to run.'
@@ -53,7 +53,7 @@ displayed by the interactive Ruby interpreter when the
 expression is evaluated.'
 puts 'Type Error if you think there is an error.'
 puts 'For multiple choice, type the answer you think is correct.'
-puts 'If the answer has multiple lines, separate each output with a SEMICOLON (and a space)'
+puts 'If the answer has multiple lines, separate each output with a SEMICOLON followed by a single space'
 puts 'If you get stuck, try out in the interpreter.'
 puts 'Type OK to continue.'
 expect('ok', '')
@@ -92,5 +92,6 @@ open(url) do |f|
 		puts ''
 	end
 
-	save_and_exit()
+	File.open($progress_file, "w") { |pf| pf.write($progress.to_s + "\n") }
+	puts "Congratulations for completing the lab!"
 end
