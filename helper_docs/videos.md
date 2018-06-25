@@ -24,6 +24,11 @@ Videos dealing with course logistics and general knowledge
 	- Use <a href="https://youtu.be/uwRnk4SVKNY">IRB</a> (the Interactive RuBy)
 	- And fetch new assignments
 
+## Course Content
+
+- Week 3:
+  - <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ4lP1domOnNNHj78JPdrZ6u">String and integer manipulation</a>
+
 ## Staff Intro Videos
 
 Administrator/Lead TA
