@@ -54,6 +54,7 @@ expression is evaluated.'
 puts 'Type Error if you think there is an error.'
 puts 'For multiple choice, type the answer you think is correct.'
 puts 'If the answer has multiple lines, separate each output with a SEMICOLON followed by a single space'
+puts 'UPDATE: When calling a function, do so like this: `function_name(arg1, arg2, ...)`'
 puts 'If you get stuck, try out in the interpreter.'
 puts 'Type OK to continue.'
 expect('ok', '')
