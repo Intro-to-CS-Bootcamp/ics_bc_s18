@@ -76,7 +76,7 @@ Make sure to replace the `__` in the call to the function at the bottom to test 
 - Requirements
   - Using `english_number` and your old program on page 49, write out the lyrics to this song the *right* way this time. Punish your computer: have it start at 9999. (Don’t pick a number too large, though, because writing all of that to the screen takes your computer quite a while. A hundred thousand bottles of beer takes some time; and if you pick a million, you’ll be punishing yourself as well!)
 - Clarifications/Advice
-  - You've done this one before, just copy paste in your completed `english_number.rb` code and use the function to display the lyrics using english numbers.
+  - You've done this one before, just copy paste in your completed `english_number.rb` code, your old 99 bottles of beer code, and modify it to display the lyrics using english numbers by calling the function.
 
 #### sort.rb
 
