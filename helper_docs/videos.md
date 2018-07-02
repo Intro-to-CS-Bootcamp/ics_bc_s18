@@ -28,6 +28,15 @@ Videos dealing with course logistics and general knowledge
 
 - Week 3:
   - <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ4lP1domOnNNHj78JPdrZ6u">String and integer manipulation</a>
+- Week 4:
+  - A three part series on <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ7IV44EzIr1pDin0Q_EV0MD">recursion</a>.
+  - A two part series on <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ7f-AkN5DYpHGp0tnFPjPQE">sorting</a>.
+  
+## Assignment Walkthroughs
+
+- Week 2:
+  - <a href="https://www.youtube.com/watch?v=dXp0m2apq2k">Leap Year Counter</a>
+  - <a href="https://www.youtube.com/watch?v=r3flAFdBtSU">Deaf Grandma</a>
 
 ## Staff Intro Videos
 
