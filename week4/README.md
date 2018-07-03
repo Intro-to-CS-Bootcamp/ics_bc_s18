@@ -67,9 +67,13 @@ Make sure to replace the `__` in the call to the function at the bottom to test 
 #### english_number.rb
 
 - Requirements
+  - First, put in thousands; it should return 'one thousand' instead of (the sad) 'ten hundred' and 'ten thousand' instead of 'one hundred hundred'.
+  - Now expand upon english_number some more. For example, put in millions so you get 'one million' instead of 'one thousand thousand'. Then try adding bil- lions, trillions, and so on.
   - We've copy pasted in the base code from the book, all you have to do is expand on it to have it display 'thousands', 'millions', 'billions', and 'trillions'.
 - Clarifications/Advice
   - Nothing for this one, just make sure to read it in depth and understand how it works so you can make the necessary modifications.
+  
+NOTE: You do not have to do wedding number! That was a joke, really.
 
 #### 99_bob_eng.rb
 
@@ -89,10 +93,11 @@ Make sure to replace the `__` in the call to the function at the bottom to test 
 #### dict_sort.rb
 
 - Requirements
-  - Same as with sort, but must now be case insensitive.
+  - Your sorting algorithm is pretty good, sure. But there was always that sort of embarrassing point you were hoping I’d just sort of gloss over, right? About the capital letters? Your sorting algorithm is good for general-purpose sorting, but when you sort strings, you are using the ordering of the characters in your fonts (called the ASCII codes) rather than true dictionary ordering. In a dictionary, case (upper or lower) is irrelevant to the ordering. So, make a new method to sort words (something like dictionary_sort).
+  - It's same as with sort, but must now be case insensitive.
   - Must be recursive.
 - Clarifications/Advice
-  - None for this one
+  - Remember, though, that if I give your program words starting with capital letters, it should return words with those same capital letters, just ordered as you’d find in a dictionary.
 
 #### shuffle.rb
 
