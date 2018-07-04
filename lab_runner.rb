@@ -47,18 +47,20 @@ elsif ARGV[0].to_i < valid_lab_start || ARGV[0].to_i > valid_lab_end
 	exit
 end
 
-puts ''
-puts 'For each of the following questions, type the output
-displayed by the interactive Ruby interpreter when the
-expression is evaluated.'
+puts
+puts 'For each of the following questions, type in what would be
+displayed by the console if you ran a program containing the
+question\'s code, along with the final return value.'
 puts 'Type Error if you think there is an error.'
 puts 'For multiple choice, type the answer you think is correct.'
-puts 'If the answer has multiple lines, separate each output with a SEMICOLON followed by a single space'
-puts 'UPDATE: When calling a function, do so like this: `function_name(arg1, arg2, ...)`'
+puts 'If the answer has multiple lines, separate each output with
+a SEMICOLON followed by a single space'
+puts 'UPDATE: When calling a function, do so like this:
+	`function_name(arg1, arg2, ...)`'
 puts 'If you get stuck, try out in the interpreter.'
 puts 'Type OK to continue.'
 expect('ok', '')
-puts ''
+puts
 
 Dir.chdir("week" + ARGV[0])
 encoded_url = URI.encode(File.read("lab" + ARGV[0] + ".txt").chomp)
