@@ -28,40 +28,6 @@ Complete Lab 4
 
 ## Programming Assignment
 
-### Recursion Practice:
-
-For these we've provided skeleton code for you to build from. Replace the `_____` with code to make each one work as described.
-
-Make sure to replace the `__` in the call to the method at the bottom to test your code.
-
-#### sum_of_integers.rb
-
-- Requirements
-  - Fill in the fuction such that it returns the sum of all positive integers between 0 and n.
-- Clarifications/Advice
-  - You do not have to worry about negative inputs, but are free to modify the method to guard against it as an optional challenge.
-
-#### array_min.rb
-
-- Requirements
-  - Fill in the method such that it returns the minimum value stored in the array.
-- Clarifications/Advice
-  - Think very carefully about the base case we gave you. In what situation would you just return the first element in the array? Once you have that, what would you then have to do in the `else` case to simplify the problem with each recursion until you get there?
-
-#### array_sum.rb
-
-- Requirements
-  - Fill in the method such that it returns the sum of all the elements in the array.
-- Clarifications/Advice
-  - This one is pretty similar to the previous one, but we're not providing a `len` argument for it. Can you think of a way to work around that?
-
-#### digit_sum.rb
-
-- Requirements
-  - Fill in the method such that it returns the sum of the digits of the passed in number
-- Clarifications/Advice
-  - Think carefully about what the second argument needs to be to ensure the correct output is returned.
-
 ### Chapter 10:
 
 #### english_number.rb
@@ -106,3 +72,39 @@ NOTE: You do not have to do wedding number! That was a joke, really.
   - As with the sorting ones, it must be recursive.
 - Clarifications/Advice
   - Think back to the last time we worked with randomness...
+
+### Optional Recursion Practice:
+
+For these we've provided skeleton code for you to build from. Replace the `_____` with code to make each one work as described.
+
+Make sure to replace the `__` in the call to the method at the bottom to test your code.
+
+We will grade these if you do them, but they are optional.
+
+#### sum_of_integers.rb
+
+- Requirements
+  - Fill in the fuction such that it returns the sum of all positive integers between 0 and n.
+- Clarifications/Advice
+  - You do not have to worry about negative inputs, but are free to modify the method to guard against it as an optional challenge.
+
+#### array_min.rb
+
+- Requirements
+  - Fill in the method such that it returns the minimum value stored in the array.
+- Clarifications/Advice
+  - Think very carefully about the base case we gave you. In what situation would you just return the first element in the array? Once you have that, what would you then have to do in the `else` case to simplify the problem with each recursion until you get there?
+
+#### array_sum.rb
+
+- Requirements
+  - Fill in the method such that it returns the sum of all the elements in the array.
+- Clarifications/Advice
+  - This one is pretty similar to the previous one, but we're not providing a `len` argument for it. Can you think of a way to work around that?
+
+#### digit_sum.rb
+
+- Requirements
+  - Fill in the method such that it returns the sum of the digits of the passed in number
+- Clarifications/Advice
+  - Think carefully about what the second argument needs to be to ensure the correct output is returned.
