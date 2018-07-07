@@ -68,7 +68,7 @@ Make sure to replace the `__` in the call to the method at the bottom to test yo
 
 - Requirements
   - First, put in thousands; it should return 'one thousand' instead of (the sad) 'ten hundred' and 'ten thousand' instead of 'one hundred hundred'.
-  - Now expand upon english_number some more. For example, put in millions so you get 'one million' instead of 'one thousand thousand'. Then try adding bil- lions, trillions, and so on.
+  - Now expand upon english_number some more. For example, put in millions so you get 'one million' instead of 'one thousand thousand'. Then try adding billions, trillions, and so on.
   - We've copy pasted in the base code from the book, all you have to do is expand on it to have it display 'thousands', 'millions', 'billions', and 'trillions'.
 - Clarifications/Advice
   - Nothing for this one, just make sure to read it in depth and understand how it works so you can make the necessary modifications.
