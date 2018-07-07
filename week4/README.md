@@ -32,33 +32,33 @@ Complete Lab 4
 
 For these we've provided skeleton code for you to build from. Replace the `_____` with code to make each one work as described.
 
-Make sure to replace the `__` in the call to the function at the bottom to test your code.
+Make sure to replace the `__` in the call to the method at the bottom to test your code.
 
 #### sum_of_integers.rb
 
 - Requirements
   - Fill in the fuction such that it returns the sum of all positive integers between 0 and n.
 - Clarifications/Advice
-  - You do not have to worry about negative inputs, but are free to modify the function to guard against it as an optional challenge.
+  - You do not have to worry about negative inputs, but are free to modify the method to guard against it as an optional challenge.
 
 #### array_min.rb
 
 - Requirements
-  - Fill in the function such that it returns the minimum value stored in the array.
+  - Fill in the method such that it returns the minimum value stored in the array.
 - Clarifications/Advice
   - Think very carefully about the base case we gave you. In what situation would you just return the first element in the array? Once you have that, what would you then have to do in the `else` case to simplify the problem with each recursion until you get there?
 
 #### array_sum.rb
 
 - Requirements
-  - Fill in the function such that it returns the sum of all the elements in the array.
+  - Fill in the method such that it returns the sum of all the elements in the array.
 - Clarifications/Advice
   - This one is pretty similar to the previous one, but we're not providing a `len` argument for it. Can you think of a way to work around that?
 
 #### digit_sum.rb
 
 - Requirements
-  - Fill in the function such that it returns the sum of the digits of the passed in number
+  - Fill in the method such that it returns the sum of the digits of the passed in number
 - Clarifications/Advice
   - Think carefully about what the second argument needs to be to ensure the correct output is returned.
 
@@ -80,13 +80,13 @@ NOTE: You do not have to do wedding number! That was a joke, really.
 - Requirements
   - Using `english_number` and your old program on page 49, write out the lyrics to this song the *right* way this time. Punish your computer: have it start at 9999. (Don’t pick a number too large, though, because writing all of that to the screen takes your computer quite a while. A hundred thousand bottles of beer takes some time; and if you pick a million, you’ll be punishing yourself as well!)
 - Clarifications/Advice
-  - You've done this one before, just copy paste in your completed `english_number.rb` code, your old 99 bottles of beer code, and modify it to display the lyrics using english numbers by calling the function.
+  - You've done this one before, just copy paste in your completed `english_number.rb` code, your old 99 bottles of beer code, and modify it to display the lyrics using english numbers by calling the method.
 
 #### sort.rb
 
 - Requirements
   - Beyond the basic requirement of properly sorting the provided array, this one must be recursive. No points will be given if it's iterative.
-  - We've provided the wrapper function described in the book, we recommend you work with it.
+  - We've provided the wrapper method described in the book, we recommend you work with it.
 - Clarifications/Advice
   - The examples given in the sorting videos are meant to familiarize you with sorting as a whole, not provide base code for you to adapt. You can if you want to, but it's probably easier to not.
 
