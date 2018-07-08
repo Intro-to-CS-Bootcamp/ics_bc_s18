@@ -26,8 +26,6 @@ The following commands are all done in your terminal (or if you use Windows, eit
 
 `git add some_file`: Stages the changes made to `some_file` for commit (staging area). You can choose which changes you want to commit, because sometimes you just don't want to commit something, or want to commit it later. If you don't care, use `git add .` to add everything since `.` means everything.
 
-p.s. If you use mac and see an annoying file called .DS_Store, just commit it and be done with it. Unless you want to be a pro at Git, then contact a TA.
-
 `git commit -m "Some commit message"`: Commits all changes in the staging area. After a change is committed, it will be saved somewhere on your computer other than the file - like a Cloud backup. The difference is that it saves the entire timeline, not just the final state. So if you want to revert a file to some earlier stage of development, you can do so. That's why it's best to commit often, because you can only revert to those snapshots that correspond to a commit.
 
 `git push` or `git push some_place some_branch`: Pushes your local commits to the remote (possibly someone else's remote you specify). That way, others can see what you've changed. It can also serve as another backup, because local commits will still disappear if your computer is stolen or something. The remote is your google drive.
