@@ -31,7 +31,7 @@ end
 
 def flush_and_get
 	$stdout.flush
-	input = $stdin.gets
+	input = $stdin.gets.lstrip.rstrip
 	input.nil? || input.chomp! == 'exit' ? save_and_exit() : input
 end
 
