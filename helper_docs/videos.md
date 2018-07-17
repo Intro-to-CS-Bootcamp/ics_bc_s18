@@ -29,18 +29,27 @@ Videos dealing with course logistics and general knowledge
 - Week 3:
   - <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ4lP1domOnNNHj78JPdrZ6u">String and integer manipulation</a>
 - Week 4:
-  - A three part series on <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ7IV44EzIr1pDin0Q_EV0MD">recursion</a>.
-  - A two part series on <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ7f-AkN5DYpHGp0tnFPjPQE">sorting</a>.
+  - <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ7IV44EzIr1pDin0Q_EV0MD">Recursion</a>, a three part series.
+  - <a href="https://www.youtube.com/playlist?list=PL_Otc46JXAZ7f-AkN5DYpHGp0tnFPjPQE">Sorting</a>, a two part series.
+- Week 5:
+  - <a href="https://youtu.be/hTiryOe0Rgo">Classes and Objects</a>.
+- Week 6:
+  - <a href="https://youtu.be/SuNatY4cnzo">Blocks and Procs</a>.
   
 ## Assignment Walkthroughs
 
 - Week 2:
   - <a href="https://www.youtube.com/watch?v=dXp0m2apq2k">Leap Year Counter</a>
   - <a href="https://www.youtube.com/watch?v=r3flAFdBtSU">Deaf Grandma</a>
+- Week 3:
+  - <a href="https://youtu.be/rR2iwDbcfwM">Roman Numerals</a>
+- Week 4:
+  - <a href="https://youtu.be/7aCTEnXnM-E">Recursion Walkthrough (p 1/2)</a>
+  - <a href="https://youtu.be/iMAeAoW0jV4">Recursion Walkthrough (p 2/2)</a>
 
 ## Staff Intro Videos
 
-Administrator/Lead TA
+Administrator/Head TA
 
 - <a href="https://youtu.be/PF9MxUZtld0">Gustavo De Leon</a>
 
