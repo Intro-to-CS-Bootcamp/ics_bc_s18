@@ -10,10 +10,17 @@ When finished with the week's assignment, please push your changes to GitHub and
 
 Read the following chapters from Chris Pine's Learn to Program:
 
-- Chapter 13: Creating New Classes,Changing Existing Ones
+- Chapter 13: Creating New Classes,
+Changing Existing Ones
   - pages 113-122
 - Chapter 14: New Classes of Objects
   - pages 122-131
+
+## Videos
+
+To help you review, we have the poll winner: <a href="https://youtu.be/iMAeAoW0jV4">Recursion Walkthrough</a>, which covers the remaining three recursion practice problems.
+
+We also have a video covering <a href="https://youtu.be/SuNatY4cnzo">Blocks and Procs</a> to help you prepare for this week's assignment.
 
 ## Lab Assignment
 
