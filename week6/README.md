@@ -141,4 +141,4 @@ with a few different blocks.
     ~~~
 
 - Clarifications/Advice
-  -
+  - The global variable is 100% necessary for this
