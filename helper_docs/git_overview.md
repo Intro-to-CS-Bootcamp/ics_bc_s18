@@ -42,7 +42,7 @@ The following commands are all done in your terminal (or if you use Windows, eit
 
 `git reset some_file` or just `git reset`: If you accidentally stage (`git add`) something you didn't mean to, use this to unstage it.
 
-`git checkout -- some_file`: If you mess up, you can replace the changes in your working tree with the last content you committed. Changes already committed, as well as new files, will not be affected.
+`git checkout -- some_file`: If you mess up, you can replace the changes in your working tree with the content in the staging area. Changes already staged, as well as new files, will not be affected.
 
 `git rm some_file`: Deletes the file and also stages the removal for commit. Use `git rm -r some_directory` to delete a folder and all files in it.
 
