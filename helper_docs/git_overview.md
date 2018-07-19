@@ -40,14 +40,11 @@ The following commands are all done in your terminal (or if you use Windows, eit
 
 **If you ever suspect you need the following commands, it is recommended you also message a TA or at least do some googling, as they are a little complicated.**
 
-`git reset HEAD some_file`: If you accidentally stage (`git add`) something you didn't mean to, use this to unstage it.
+`git reset some_file` or just `git reset`: If you accidentally stage (`git add`) something you didn't mean to, use this to unstage it.
 
-`git checkout -- some_file`: If you mess up, you can replace the changes in your working tree with the last content in head:
-Changes already added to the index, as well as new files, will be kept.
+`git checkout -- some_file`: If you mess up, you can replace the changes in your working tree with the last content you committed. Changes already committed, as well as new files, will not be affected.
 
 `git rm some_file`: Deletes the file and also stages the removal for commit. Use `git rm -r some_directory` to delete a folder and all files in it.
-
-`git merge`: Merge a local with remote after resolving a merge conflict. To avoid having to do this, don't make edits directly on the Github website.
 
 `git push -f`: Force push your commits to the remote. Do this when you are despairing and just can't figure out how to fix the merge conflict.
 
