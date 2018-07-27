@@ -10,7 +10,9 @@ When finished with the week's assignment, please push your changes to GitHub and
 
 Read the following chapters from Chris Pine's Learn to Program:
 
-- Chapter 11: Reading and Writing,Saving and Loading,Yin and... Something Else
+- Chapter 11: Reading and Writing,
+Saving and Loading,
+Yin and... Something Else
   - pages 94-104
 - Chapter 12: New Classes of Objects
   - pages 105-113
@@ -74,7 +76,8 @@ Complete Lab 5
 #### roman_to_integer.rb
 
 - Requirements
-  - Party like it’s `roman_to_integer 'mcmxcix'`! Come on, you knew it was coming, didn’t you? It’s the other half of your `roman_numeral 1999` method. Make sure to reject strings that aren’t valid Roman numerals.
+  - Party like it’s `roman_to_integer 'mcmxcix'`! Come on, you knew it was coming, didn’t you? It’s the other half of your `roman_numeral 1999` method. ~Make sure to reject strings that aren’t valid Roman numerals.~
+  - We will ask you to reject strings that contain invalid characters (such as `'abc'`) but you do not need to reject invalid strings with all correct characters, such as `'iiiiii'` or `'ic'`. Unless you're _really_ ambitious.
 - Clarifications/Advice
   - You're only required to make it work with old roman numerals, but for an extra challenge adapt it to work with the modern ones too!
 
