@@ -77,7 +77,7 @@ Complete Lab 5
 
 - Requirements
   - Party like it’s `roman_to_integer 'mcmxcix'`! Come on, you knew it was coming, didn’t you? It’s the other half of your `roman_numeral 1999` method. ~Make sure to reject strings that aren’t valid Roman numerals.~
-  - We will ask you to reject strings that contain invalid characters (such as `'abc'`) but you do not need to reject invalid strings with all correct characters, such as `'iiiiii'` or `'ic'`. Unless you're _really_ ambitious.
+  - We will ask you to reject strings that contain invalid characters (such as `'abc'`) but you do not need to reject invalid strings with all correct characters, such as `'iiiiii'` or `'ic'` (behavior unspecified in that case). Unless you're _really_ ambitious.
 - Clarifications/Advice
   - You're only required to make it work with old roman numerals, but for an extra challenge adapt it to work with the modern ones too!
 
